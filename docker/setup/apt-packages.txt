@@ -1,0 +1,5 @@
+curl
+gettext-base
+python3-pip
+git
+zip
